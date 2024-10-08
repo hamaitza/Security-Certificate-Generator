@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="bcutil-jdk18on-1.78.1-sources">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Downloadssss/bcutil-jdk18on-1.78.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Downloadssss/bcprov-jdk18on-1.78.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Downloadssss/bcpkix-jdk18on-1.78.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../Downloadssss/bcutil-jdk18on-1.78.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Downloadssss/bcprov-jdk18on-1.78.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Downloadssss/bcpkix-jdk18on-1.78.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
